@@ -3,7 +3,7 @@
 A small, static, Chinese-first personal site for GitHub Pages.
 
 - `index.html`: About, experience, education and selected work.
-- `blog.html`: three selected posts, with Chinese and English public Notion links.
+- `blog.html`: the complete post index, newest first. Each post links to its published Notion language editions.
 - `style.css` and `assets/`: responsive styling and local organization logos.
 
 No build step or external dependencies. Publish this directory at the root of a GitHub Pages site. All internal links are relative, so project sites work as well.
